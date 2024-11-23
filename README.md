@@ -8,31 +8,25 @@ The application features an interactive layout that allows users to input expres
 Supports addition (+), subtraction (-), multiplication (*), and division (/).
 
 2.Interactive User Interface:
-Buttons for digits (0-9) and operations, organized in a grid layout for easy access.
-A single-line input field to display the entered expressions and results.
+Buttons for digits (0-9) and operations, organized in a grid layout for easy access. A single-line input field to display the entered expressions and results.
 
 3.Clear Functionality:
 A "C" button to clear the entire input field.
 
 4.Result Calculation:
-An "=" button to evaluate the entered expression and display the result.
-Displays an error message if invalid input is provided.
+An "=" button to evaluate the entered expression and display the result. Displays an error message if invalid input is provided.
 
 ## How It Works🪶
 1. Launching the Calculator:
-Run the Python script, and a simple calculator window will appear.
-The calculator has a display area (entry field) at the top and a grid of buttons below.
+Run the Python script, and a simple calculator window will appear. The calculator has a display area (entry field) at the top and a grid of buttons below.
 
 2. Entering Expressions:
-Click the digit buttons (0-9) and operation buttons (+, -, *, /) to form a mathematical expression.
-The clicked values will appear in the entry field at the top.
+Click the digit buttons (0-9) and operation buttons (+, -, *, /) to form a mathematical expression. The clicked values will appear in the entry field at the top.
 
-3.Clearing Input:
-If you want to clear the input field, click the C button.
+3.Clearing Input: If you want to clear the input field, click the C button.
 
 4.Calculating Results:
-After entering an expression, click the = button to evaluate the result.
-The result will replace the entered expression in the input field.
+After entering an expression, click the = button to evaluate the result. The result will replace the entered expression in the input field.
 
 5.Handling Errors:
 If an invalid expression is entered, the calculator will display "Error" in the input field.
