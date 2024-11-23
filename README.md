@@ -3,6 +3,7 @@ This Python-based calculator is a basic GUI application built using the Tkinter 
 The application features an interactive layout that allows users to input expressions, clear the screen, and compute results.
 
 ## Features🌟
+
 1. Basic Arithmetic Operations:
 Supports addition (+), subtraction (-), multiplication (*), and division (/).
 
